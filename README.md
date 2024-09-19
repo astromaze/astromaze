@@ -2,8 +2,6 @@
 
 Astromaze tem com o objetivo de revolucionar a interação humano-máquina. a Astromaze se destaca da criação de sistemas inteligentes e autônomos que facilitam e aprimoram uma variedade de processos e tarefas. Nosso foco principal está em criar robôs assistentes altamente adaptáveis e personalizáveis que possam ser aplicados em diversos setores, desde assistência domiciliar até ambientes industriais complexos. Através de avanços em inteligência artificial, aprendizado de máquina e robótica, a Astromaze está redefinindo a maneira como os humanos interagem e colaboram com as máquinas. Aqui no Nosso Repositório, a principio, estamos mostrando nosso Cadastro de Clientes, vocês podem saber mais sobre o protótipo do nosso robôzinho ASTROGLOWING, através das nossas Redes Sociais e do Nosso Site!
 
-Nosso Objetivo Principal desse Repositório é a Criação do Cadastro de Clientes, Segue o Site abaixo, Hospedado no Somee.com, com o nosso Cadastro de Clientes:
-- 📝Clique aqui para se cadastrar ➡️ [CADASTRO](http://www.astromazetcc.somee.com/)
 - 🌏 **Site da Atividade** : http://www.astromazetcc.somee.com/
 - 📷 **Nosso Instagram**
   &nbsp;<a href="https://www.instagram.com/astromazetcc/?utm_source=qr">
